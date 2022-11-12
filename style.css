@@ -6,7 +6,7 @@ body {
 .product-card {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    height: 500px;
+   /* height: 500px;*/
     border-radius: 15px;
   }
 .product-card-left {
@@ -83,7 +83,7 @@ body {
   }
     .product-card {
     grid-template-columns: repeat(1, 1fr);
-    height: 900px;
+   /* height: 900px;*/
     border-radius: 15px;
     margin-bottom: 100px;
   }
@@ -98,7 +98,7 @@ body {
   }
   .product-card-right {
     border-radius: 0 0 15px 15px;
-    height: 500px;
+    /*height: 500px;*/
     padding-bottom: 60px;
   }
   .product-card-right h5{
